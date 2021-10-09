@@ -6,60 +6,46 @@ description: My Projects
 ---
 
 ### 2021 2D image to 3D point cloud back projection (Python) – Personal project 
-• Converts a 2D image back into its 3D point cloud. It uses CloudCompare to 
-register the geo-referenced point cloud, and saves the intrinsic and extrinsic 
-camera properties of the point cloud. 
-• Using the geo registered point cloud and the camera properties it can convert a 
-multiple 2D images into one 3D point cloud. 
-• For optimization duplicate points where filtered and down sampling was 
-applied. Output accuracy of 97%. 
+• Converts a 2D image back into its 3D point cloud. It uses CloudCompare to register the geo-referenced point cloud, and saves the intrinsic and extrinsic camera properties of the point cloud. 
+
+• Using the geo registered point cloud and the camera properties it can convert a multiple 2D images into one 3D point cloud. 
+
+• For optimization duplicate points where filtered and down sampling was applied. Output accuracy of 97%. 
 
 ### 2021 Co-Labelling images and point clouds (Python, C++) – Group project 
-• Programmed an algorithm to co-label 2D images from 3D point clouds. Uses a 
-structure-from-motion algorithm to combine information from multiple images 
-and build a 3D point cloud. Then used the camera projection equation to map 
-each 3D point to a 2D pixel. 
+• Programmed an algorithm to co-label 2D images from 3D point clouds. Uses a structure-from-motion algorithm to combine information from multiple images and build a 3D point cloud. Then used the camera projection equation to map each 3D point to a 2D pixel. 
+
 • Accuracy of 100%. 
 
 
 ### 2021 Image-Segmentation using ML(Python) – Group project 
-• Developed an automated convoluted neural network with Keras used to 
-segment images in 9 different highway related classes. Uses a modified version 
-of U-Net architecture and tested with UAV scanned images. 
-• Model compared with geometry-based methods using OpenCV. Preformed 450 
-times better than geometric methods, yielding an accuracy of 98%.
+• Developed an automated convoluted neural network with Keras used to segment images in 9 different highway related classes. Uses a modified version of U-Net architecture and tested with UAV scanned images. 
+
+• Model compared with geometry-based methods using OpenCV. Preformed 450 times better than geometric methods, yielding an accuracy of 98%.
 
 
 ### 2020 Scene Completion of 3D point clouds (Python, C++) – Group project 
-• Oversaw the development of a new method for performing point cloud scene 
-completion of building facades using orthographic projection and generative 
-adversarial inpainting methods. 
-• Point cloud is first converted into the 2D structured representation of depth 
-and color images using an orthographic projection. 2D inpainting process is 
-applied using generative-adversarial network based on Pix2Pix. 
-• Compared to other state of the art methods, the developed model preformed 
-11% better. With accuracy of 69%.
+• Oversaw the development of a new method for performing point cloud scene completion of building facades using orthographic projection and generative adversarial inpainting methods. 
+
+• Point cloud is first converted into the 2D structured representation of depth and color images using an orthographic projection. 2D inpainting process is applied using generative-adversarial network based on Pix2Pix.
+
+• Compared to other state of the art methods, the developed model preformed 11% better. With accuracy of 69%.
 
 
 ### 2020 DealDiner (Python, HTML, CSS, Flask) – Group Project 
-• Computed a web app that budgets users’ food, clothing, and books on a weekly 
-schedule for Georgia Tech students. App displayed with GUI allowing user to 
-choose what they would like to purchase. Used Georgia Tech’s API to 
-successfully display appropriate shops user can go to with their current meal 
-plan, budget, and campus dollars. 
+• Computed a web app that budgets users’ food, clothing, and books on a weekly schedule for Georgia Tech students. App displayed with GUI allowing user to choose what they would like to purchase. Used Georgia Tech’s API to successfully display appropriate shops user can go to with their current meal plan, budget, and campus dollars. 
+
 • Improved schedule of 60% of users who used the application.
 
 
 ### 2020 Youtube-Summarizer (Python, HTML, CSS) – Personal Project 
-• Developed a YouTube summarizer that uses Youtube API to obtain video 
-transcript and leverage a NLP algorithm to summarize it to 25% of its original 
-size by prioritizing key words in the video. Uses HTML, CSS, and Flask for web 
-framework and GUI to display results. 
+• Developed a YouTube summarizer that uses Youtube API to obtain video transcript and leverage a NLP algorithm to summarize it to 25% of its original  size by prioritizing key words in the video. Uses HTML, CSS, and Flask for web framework and GUI to display results. 
+
 • 80% of non-repeated content displayed in video is displayed accurately by the 
 algorithm. 
 
 
 ### 2018 Multi-variable Calculator (MatLab) – Course Project 
-• Engineered a calculator that takes a multi-variable function from user and using 
-GUI integrates or differentiates the function. 
+• Engineered a calculator that takes a multi-variable function from user and using GUI integrates or differentiates the function. 
+
 • Provides a choice to plot differentiated, integrated or unchanged graph, in a cartesian, surf or mesh form.
