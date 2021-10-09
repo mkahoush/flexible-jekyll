@@ -6,13 +6,20 @@ description: My Research
 ---
 ### Georgia Institute of Technology 
 • Developed model to automated highway maintenance. 
+
 • Leverage convoluted neural network using Keras to automatically process drone images to detect areas with mowed grass and areas with unmowed grass, as well damage signs or pavements. 
-• Obtained average F1 score of 98%, average precision of 99%, and average recall of 96% 
+
+• Obtained average F1 score of 98%, average precision of 99%, and average recall of 96%.
+
 • In collaboration with and funded by the Georgia Department of Transportation. 
+
 • Technologies used: UAVs, Python, Keras, OpenCV, C++, CloudCompare, MeshLab. 
 
 ### Georgia Institute of Technology 
 • Conducted research on accurate and optimum methods to automatically filling occlusions in point cloud data. 
-• Engineered deep learning model using Tensorflow to detect and predict voxels that appropriately fill in holes 
+
+• Engineered deep learning model using Tensorflow to detect and predict voxels that appropriately fill in holes.
+
 • Obtained average F1 score of 69%, average voxel precision of 78%, and average recall of 63%. 
-• Technologies used: Laser scanner, C++, Tensorflow, python, CloudCompare 
+
+• Technologies used: Laser scanner, C++, Tensorflow, python, CloudCompare.
