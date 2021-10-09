@@ -3,7 +3,6 @@ layout: post
 title: Resume
 date: 2021-09-10 00:00:00 +0300
 description: My Resume
-img: CV.jpg
 ---
 
 <img src="../assets/img/CV.jpg" alt="">
