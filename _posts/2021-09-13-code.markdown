@@ -1,0 +1,16 @@
+---
+layout: post
+title: C0de
+date: 2021-013-12 13:32:20 +0300
+description: List of public repos.
+img: 
+---
+
+<i class="fab fa-fw fa-github"></i>
+								</span>
+								<div class="desc">
+
+<a class="paperlink" target="_blank" href="https://github.com/jingdao/point_cloud_scene_completion"><h3>Point Cloud Scene Completion</h3></a>
+<p>Code to perform scene completion of obstructed building facades using generative adversarial inpainting. Implemented in Tensorflow.</p>
+
+
